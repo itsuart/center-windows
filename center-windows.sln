@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hook", "hook\hook.vcxproj", "{7ADBA80E-0D5B-4979-B691-F546E41A28CA}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "control-panel", "control-panel\control-panel.vcxproj", "{7206E73F-9BE1-4F0F-A007-B5861C40D880}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7ADBA80E-0D5B-4979-B691-F546E41A28CA} = {7ADBA80E-0D5B-4979-B691-F546E41A28CA}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
