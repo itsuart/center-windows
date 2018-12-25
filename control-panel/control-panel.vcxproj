@@ -23,7 +23,7 @@
     <ProjectGuid>{7206E73F-9BE1-4F0F-A007-B5861C40D880}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>controlpanel</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
     <ProjectName>center-window-loader</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

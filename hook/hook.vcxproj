@@ -23,7 +23,7 @@
     <ProjectGuid>{7ADBA80E-0D5B-4979-B691-F546E41A28CA}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>hook</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
     <ProjectName>center-window-hook</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
